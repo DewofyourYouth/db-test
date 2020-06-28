@@ -1,0 +1,8 @@
+README.rst
+setup.py
+fsa_test/__init__.py
+fsa_test.egg-info/PKG-INFO
+fsa_test.egg-info/SOURCES.txt
+fsa_test.egg-info/dependency_links.txt
+fsa_test.egg-info/requires.txt
+fsa_test.egg-info/top_level.txt
